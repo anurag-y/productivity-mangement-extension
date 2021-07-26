@@ -1,3 +1,0 @@
-On clicking To do list another html page page in new active tab must open.
-We can add a task with specified date and time.
-we can delete it.
